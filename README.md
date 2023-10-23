@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @silvagustavofernando
-- 👀 I’m interested in ... prender coisas novas 
-- 🌱 I’m currently learning ... scratch e alura
-- 💞️ I’m looking to collaborate on ... scratch e outras coisas 
-- 📫 How to reach me ... morro no brazil parana 
+- 👋 Hi,my name is Gustavo Fernando da silva.
+- 🤝 I’m @silvagustavofernando .
+- 👀 I’m interested in ...aprender coisas novas .
+- 🌱 I’m currently learning ... scratch, alura e alura.
+- 💞️ I’m looking to collaborate on ... com a tecnologia, programação e a escola .
+- 📫 How to reach me ... móro no brazil, parana .
 
 <!---
 silvagustavofernando/silvagustavofernando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
